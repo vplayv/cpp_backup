@@ -1,0 +1,19 @@
+﻿빌드 시작: 2014-09-28 오후 1:38:15
+     1>2 노드의 "C:\Users\vplayv\documents\visual studio 2012\Projects\alg_ass_02\alg_ass_02\alg_ass_02.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "소스.cpp"
+         소스.cpp
+     1>c:\users\vplayv\documents\visual studio 2012\projects\alg_ass_02\alg_ass_02\소스.cpp(23): warning C4200: 비표준 확장이 사용됨 : 구조체/공용 구조체의 배열 크기가 0입니다.
+                 UDT에 크기가 0인 배열이 있는 경우 복사 생성자 또는 복사 할당 연산자를 생성할 수 없습니다.
+     1>c:\users\vplayv\documents\visual studio 2012\projects\alg_ass_02\alg_ass_02\소스.cpp(49): warning C4244: '인수' : 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>c:\users\vplayv\documents\visual studio 2012\projects\alg_ass_02\alg_ass_02\소스.cpp(90): warning C4101: 'deleteInt' :참조되지 않은 지역 변수입니다.
+     1>c:\users\vplayv\documents\visual studio 2012\projects\alg_ass_02\alg_ass_02\소스.cpp(89): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+     1>c:\users\vplayv\documents\visual studio 2012\projects\alg_ass_02\alg_ass_02\소스.cpp(804): warning C4715: 'list_Sort_Asc_Exchange' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vplayv\documents\visual studio 2012\Projects\alg_ass_02\Debug\alg_ass_02.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vplayv\documents\visual studio 2012\Projects\alg_ass_02\Debug\alg_ass_02.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vplayv\documents\visual studio 2012\Projects\alg_ass_02\Debug\alg_ass_02.lib" /MACHINE:X86 "Debug\소스.obj"
+         alg_ass_02.vcxproj -> C:\Users\vplayv\documents\visual studio 2012\Projects\alg_ass_02\Debug\alg_ass_02.exe
+     1>"C:\Users\vplayv\documents\visual studio 2012\Projects\alg_ass_02\alg_ass_02\alg_ass_02.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.97

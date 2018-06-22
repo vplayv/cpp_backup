@@ -1,0 +1,11 @@
+﻿빌드 시작: 2014-10-05 오후 5:42:02
+     1>2 노드의 "C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Alg3\Alg3\Alg3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Alg3\Debug\Alg3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Alg3\Debug\Alg3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Alg3\Debug\Alg3.lib" /MACHINE:X86 "Debug\소스.obj"
+         "Debug\소스1.obj"
+         Alg3.vcxproj -> C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Alg3\Debug\Alg3.exe
+     1>"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Alg3\Alg3\Alg3.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.27

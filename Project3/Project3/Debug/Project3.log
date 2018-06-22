@@ -1,0 +1,11 @@
+﻿빌드 시작: 2014-09-27 오후 3:44:23
+     1>2 노드의 "C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Project3\Project3\Project3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Project3\Debug\Alg_Assignment_02.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Project3\Debug\Alg_Assignment_02.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Project3\Debug\Alg_Assignment_02.lib" /MACHINE:X86 "Debug\소스.obj"
+     1>소스.obj : error LNK2019: "struct d_Node * __cdecl list_Insert_Head(struct d_Node *)" (?list_Insert_Head@@YAPAUd_Node@@PAU1@@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+     1>C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Project3\Debug\Alg_Assignment_02.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+     1>"C:\Users\vplayv\Documents\Visual Studio 2012\Projects\Project3\Project3\Project3.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.80
